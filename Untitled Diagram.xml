@@ -1,4 +1,4 @@
-<mxfile modified="2021-11-15T09:16:18.285Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="SsmFbXsQdZz2haCBZDN_" version="15.7.3" type="github">
+<mxfile modified="2021-11-15T09:33:06.279Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="2a4vg19hUI30gai0fhi-" version="15.7.3" type="github">
   <diagram name="Page-1" id="8ce9d11a-91a2-4d17-14d8-a56ed91bf033">
     <mxGraphModel dx="3065" dy="845" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
@@ -10,16 +10,16 @@
         <mxCell id="KsJ5a3PplZJTA5pHCJnb-9" value="" style="whiteSpace=wrap;html=1;rounded=0;shadow=0;glass=0;fontSize=14;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="xCeluR47clFHoIN9DoEp-3">
           <mxGeometry x="25" y="161" width="184" height="104" as="geometry" />
         </mxCell>
-        <mxCell id="xCeluR47clFHoIN9DoEp-22" value="&lt;font style=&quot;font-size: 16px&quot;&gt;UI框架升级&lt;/font&gt;&lt;br&gt;&lt;font style=&quot;font-size: 8px&quot;&gt;界面美化，工作台用户随心定制&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#d6b656;fillColor=#fff2cc;" parent="xCeluR47clFHoIN9DoEp-3" vertex="1">
+        <mxCell id="xCeluR47clFHoIN9DoEp-22" value="&lt;font style=&quot;font-size: 16px&quot;&gt;UI框架升级&lt;/font&gt;&lt;br&gt;&lt;font style=&quot;font-size: 8px&quot;&gt;界面美化，工作台用户随心定制&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#0F0D06;fillColor=#fff2cc;fontStyle=1" parent="xCeluR47clFHoIN9DoEp-3" vertex="1">
           <mxGeometry x="25" y="3.5" width="185" height="35.5" as="geometry" />
         </mxCell>
-        <mxCell id="KsJ5a3PplZJTA5pHCJnb-1" value="&lt;font style=&quot;font-size: 16px&quot;&gt;开发流程模板&lt;/font&gt;&lt;br&gt;&lt;font style=&quot;font-size: 8px&quot;&gt;流程代码片段，一键套用省半天&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#2D7600;fillColor=#60a917;fontColor=#ffffff;" vertex="1" parent="xCeluR47clFHoIN9DoEp-3">
+        <mxCell id="KsJ5a3PplZJTA5pHCJnb-1" value="&lt;font style=&quot;font-size: 16px&quot;&gt;开发流程模板&lt;/font&gt;&lt;br&gt;&lt;font style=&quot;font-size: 8px&quot;&gt;流程代码片段，一键套用省半天&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#60a917;fontColor=#ffffff;fontStyle=1" vertex="1" parent="xCeluR47clFHoIN9DoEp-3">
           <mxGeometry x="25" y="42" width="185" height="37" as="geometry" />
         </mxCell>
-        <mxCell id="KsJ5a3PplZJTA5pHCJnb-2" value="&lt;font style=&quot;font-size: 16px&quot;&gt;IDE级智能补全&lt;/font&gt;&lt;br&gt;&lt;font style=&quot;font-size: 8px&quot;&gt;全局智能提示自动补全，事半功倍&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#A50040;fillColor=#d80073;fontColor=#ffffff;" vertex="1" parent="xCeluR47clFHoIN9DoEp-3">
+        <mxCell id="KsJ5a3PplZJTA5pHCJnb-2" value="&lt;font style=&quot;font-size: 16px&quot;&gt;IDE级智能补全&lt;/font&gt;&lt;br&gt;&lt;font style=&quot;font-size: 8px&quot;&gt;全局智能提示自动补全，事半功倍&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#d80073;fontColor=#ffffff;fontStyle=1" vertex="1" parent="xCeluR47clFHoIN9DoEp-3">
           <mxGeometry x="25" y="82" width="185" height="37" as="geometry" />
         </mxCell>
-        <mxCell id="KsJ5a3PplZJTA5pHCJnb-3" value="&lt;span style=&quot;font-size: 16px&quot;&gt;打包加壳加密&lt;/span&gt;&lt;br&gt;&lt;font style=&quot;font-size: 8px&quot;&gt;程序加壳，代码加密，安全防窃取&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#56517e;fillColor=#d0cee2;" vertex="1" parent="xCeluR47clFHoIN9DoEp-3">
+        <mxCell id="KsJ5a3PplZJTA5pHCJnb-3" value="&lt;span style=&quot;font-size: 16px&quot;&gt;打包加壳加密&lt;/span&gt;&lt;br&gt;&lt;font style=&quot;font-size: 8px&quot;&gt;程序加壳，代码加密，安全防窃取&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#d0cee2;fontStyle=1" vertex="1" parent="xCeluR47clFHoIN9DoEp-3">
           <mxGeometry x="25" y="122" width="185" height="37" as="geometry" />
         </mxCell>
         <mxCell id="KsJ5a3PplZJTA5pHCJnb-10" value="&lt;font style=&quot;font-size: 12px&quot;&gt;行拆分组件&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cdeb8b;strokeColor=#36393d;glass=0;shadow=0;sketch=0;aspect=fixed;arcSize=50;" vertex="1" parent="xCeluR47clFHoIN9DoEp-3">
@@ -37,11 +37,11 @@
         <mxCell id="KsJ5a3PplZJTA5pHCJnb-25" value="&lt;font style=&quot;font-size: 12px&quot;&gt;获取元素数量&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;glass=0;shadow=0;sketch=0;arcSize=50;" vertex="1" parent="xCeluR47clFHoIN9DoEp-3">
           <mxGeometry x="122" y="193" width="85" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="KsJ5a3PplZJTA5pHCJnb-27" value="组件开发" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=11;" vertex="1" parent="xCeluR47clFHoIN9DoEp-3">
-          <mxGeometry x="28.5" y="161" width="58" height="17" as="geometry" />
+        <mxCell id="KsJ5a3PplZJTA5pHCJnb-27" value="组件开发：4个" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=11;fontStyle=1" vertex="1" parent="xCeluR47clFHoIN9DoEp-3">
+          <mxGeometry x="28.5" y="161" width="88" height="17" as="geometry" />
         </mxCell>
-        <mxCell id="KsJ5a3PplZJTA5pHCJnb-28" value="优化" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=11;" vertex="1" parent="xCeluR47clFHoIN9DoEp-3">
-          <mxGeometry x="118" y="176" width="34" height="17" as="geometry" />
+        <mxCell id="KsJ5a3PplZJTA5pHCJnb-28" value="优化：2个" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=11;fontStyle=1" vertex="1" parent="xCeluR47clFHoIN9DoEp-3">
+          <mxGeometry x="122" y="176" width="64" height="17" as="geometry" />
         </mxCell>
         <mxCell id="KsJ5a3PplZJTA5pHCJnb-30" value="&lt;font style=&quot;font-size: 12px&quot;&gt;Excel宏组件&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;glass=0;shadow=0;sketch=0;arcSize=50;" vertex="1" parent="xCeluR47clFHoIN9DoEp-3">
           <mxGeometry x="122" y="215" width="85" height="20" as="geometry" />
@@ -1530,7 +1530,7 @@
         <mxCell id="KsJ5a3PplZJTA5pHCJnb-8" value="依赖文件清理" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#d79b00;fillColor=#ffe6cc;" vertex="1" parent="xCeluR47clFHoIN9DoEp-4">
           <mxGeometry x="155" y="80" width="54" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="xCeluR47clFHoIN9DoEp-15" value="业务流程开发" style="swimlane;strokeColor=#36393d;fontSize=14;rounded=1;fillColor=#ffff88;" parent="1" vertex="1">
+        <mxCell id="xCeluR47clFHoIN9DoEp-15" value="业务流程开发：4个 优化：1个" style="swimlane;strokeColor=#36393d;fontSize=14;rounded=1;fillColor=#ffff88;" parent="1" vertex="1">
           <mxGeometry x="-1457" y="-236" width="549" height="451" as="geometry" />
         </mxCell>
         <mxCell id="KsJ5a3PplZJTA5pHCJnb-41" value="七鲜-离职异动流程" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#f5f5f5;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;rounded=1;shadow=0;glass=0;sketch=0;fontSize=11;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="xCeluR47clFHoIN9DoEp-15">
@@ -1542,7 +1542,7 @@
         <mxCell id="KsJ5a3PplZJTA5pHCJnb-43" value="挑战：操作复杂，涉及部门，角色、权限，审批流等停用流程，且线上系统对数据验证和准确性要求极高" style="text;strokeColor=#b85450;fillColor=#f8cecc;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=1;shadow=0;glass=0;sketch=0;fontSize=11;" vertex="1" parent="KsJ5a3PplZJTA5pHCJnb-41">
           <mxGeometry y="52" width="544.25" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="KsJ5a3PplZJTA5pHCJnb-44" value="成果：每月提效2.8人天，赋能3个部门6位业务人员效率提升，极大避免数据风险和权限风险问题" style="text;strokeColor=#82b366;fillColor=#d5e8d4;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=1;shadow=0;glass=0;sketch=0;fontSize=11;" vertex="1" parent="KsJ5a3PplZJTA5pHCJnb-41">
+        <mxCell id="KsJ5a3PplZJTA5pHCJnb-44" value="成果：每月提效2.8人天，赋能3个部门6位业务人员效率提升，极大避免数据风险和权限风险问题" style="text;strokeColor=#82b366;fillColor=#d5e8d4;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=1;shadow=0;glass=0;sketch=0;fontSize=11;fontStyle=1" vertex="1" parent="KsJ5a3PplZJTA5pHCJnb-41">
           <mxGeometry y="78" width="544.25" height="26" as="geometry" />
         </mxCell>
         <mxCell id="KsJ5a3PplZJTA5pHCJnb-45" value="3C-手机通讯日报" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#f5f5f5;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;rounded=1;shadow=0;glass=0;sketch=0;fontSize=11;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="xCeluR47clFHoIN9DoEp-15">
@@ -1554,7 +1554,7 @@
         <mxCell id="KsJ5a3PplZJTA5pHCJnb-47" value="挑战：数据文件大，月末达1G，数据量大，单次处理近两百多万条统计处理，对RPA性能和极限提出了挑战" style="text;strokeColor=#b85450;fillColor=#f8cecc;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=1;shadow=0;glass=0;sketch=0;fontSize=11;" vertex="1" parent="KsJ5a3PplZJTA5pHCJnb-45">
           <mxGeometry y="52" width="544.25" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="KsJ5a3PplZJTA5pHCJnb-48" value="成果：每月提效17.5人天，处理时间缩短至分钟级，更加保障了数据的安全性和隐私性" style="text;strokeColor=#82b366;fillColor=#d5e8d4;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=1;shadow=0;glass=0;sketch=0;fontSize=11;" vertex="1" parent="KsJ5a3PplZJTA5pHCJnb-45">
+        <mxCell id="KsJ5a3PplZJTA5pHCJnb-48" value="成果：每月提效17.5人天，处理时间缩短至分钟级，更加保障了数据的安全性和隐私性" style="text;strokeColor=#82b366;fillColor=#d5e8d4;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=1;shadow=0;glass=0;sketch=0;fontSize=11;fontStyle=1" vertex="1" parent="KsJ5a3PplZJTA5pHCJnb-45">
           <mxGeometry y="78" width="544.25" height="26" as="geometry" />
         </mxCell>
         <mxCell id="KsJ5a3PplZJTA5pHCJnb-49" value="全渠道-杰夫接口机房预警" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#f5f5f5;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;rounded=1;shadow=0;glass=0;sketch=0;fontSize=11;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="xCeluR47clFHoIN9DoEp-15">
@@ -1563,7 +1563,7 @@
         <mxCell id="KsJ5a3PplZJTA5pHCJnb-50" value="背景：大促备战，为保证机房稳定和安全性，需要对内部450+接口统计机房分组信息，并对无冗余单机房预警" style="text;strokeColor=#d6b656;fillColor=#fff2cc;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=1;shadow=0;glass=0;sketch=0;fontSize=11;" vertex="1" parent="KsJ5a3PplZJTA5pHCJnb-49">
           <mxGeometry y="26" width="546" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="KsJ5a3PplZJTA5pHCJnb-52" value="成果：紧急开发，完成450+接口机房信息和结果信息汇总上报" style="text;strokeColor=#b85450;fillColor=#f8cecc;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=1;shadow=0;glass=0;sketch=0;fontSize=11;" vertex="1" parent="KsJ5a3PplZJTA5pHCJnb-49">
+        <mxCell id="KsJ5a3PplZJTA5pHCJnb-52" value="成果：紧急开发，完成450+接口机房信息和结果信息汇总上报" style="text;strokeColor=#b85450;fillColor=#f8cecc;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=1;shadow=0;glass=0;sketch=0;fontSize=11;fontStyle=1" vertex="1" parent="KsJ5a3PplZJTA5pHCJnb-49">
           <mxGeometry y="52" width="546" height="26" as="geometry" />
         </mxCell>
         <mxCell id="KsJ5a3PplZJTA5pHCJnb-53" value="3C-产品对接日报&quot;流程" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#dae8fc;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;rounded=1;shadow=0;glass=0;sketch=0;fontSize=11;strokeColor=#6c8ebf;" vertex="1" parent="xCeluR47clFHoIN9DoEp-15">
@@ -1575,7 +1575,7 @@
         <mxCell id="KsJ5a3PplZJTA5pHCJnb-55" value="挑战：涉及7个大区27省份数据，并根据75个省区大区总部等经理权限进行18个维度近两千多条数据的拆分和&#xa;分发" style="text;strokeColor=#b85450;fillColor=#f8cecc;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=1;shadow=0;glass=0;sketch=0;fontSize=11;" vertex="1" parent="KsJ5a3PplZJTA5pHCJnb-53">
           <mxGeometry y="69" width="546" height="37" as="geometry" />
         </mxCell>
-        <mxCell id="KsJ5a3PplZJTA5pHCJnb-56" value="成果：每月提效16.5人天，处理时间缩短之分钟级，赋能3C部门4位业务人员效率提升" style="text;strokeColor=#82b366;fillColor=#d5e8d4;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=1;shadow=0;glass=0;sketch=0;fontSize=11;" vertex="1" parent="KsJ5a3PplZJTA5pHCJnb-53">
+        <mxCell id="KsJ5a3PplZJTA5pHCJnb-56" value="成果：每月提效16.5人天，处理时间缩短之分钟级，赋能3C部门4位业务人员效率提升" style="text;strokeColor=#82b366;fillColor=#d5e8d4;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=1;shadow=0;glass=0;sketch=0;fontSize=11;fontStyle=1" vertex="1" parent="KsJ5a3PplZJTA5pHCJnb-53">
           <mxGeometry y="106" width="546" height="26" as="geometry" />
         </mxCell>
       </root>
