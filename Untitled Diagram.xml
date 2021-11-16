@@ -1,6 +1,6 @@
-<mxfile modified="2021-11-16T03:32:45.835Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="_Ldk6ynQ9ROAMe-4jIIp" version="15.7.3" type="github">
+<mxfile modified="2021-11-16T09:01:59.082Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="2pZVBkIpq1wO6TX_01Mo" version="15.7.3" type="github">
   <diagram name="Page-1" id="8ce9d11a-91a2-4d17-14d8-a56ed91bf033">
-    <mxGraphModel dx="3065" dy="845" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="3038" dy="934" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1640,6 +1640,39 @@
         </mxCell>
         <mxCell id="KsJ5a3PplZJTA5pHCJnb-63" value="功能促进" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=13;shadow=0;" vertex="1" parent="1">
           <mxGeometry x="-1441" y="22" width="62" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="KsJ5a3PplZJTA5pHCJnb-84" value="&lt;p class=&quot;wordsection1&quot; style=&quot;margin: 0cm ; margin-bottom: 0.0001pt ; text-align: justify&quot;&gt;&lt;b&gt;&lt;span style=&quot;font-size: 11.0pt ; font-family: &amp;#34;微软雅黑&amp;#34; , sans-serif&quot;&gt;&lt;span lang=&quot;EN-US&quot;&gt;3C&lt;/span&gt;手机通讯每日数据日报是3C通讯业务数据汇总重要组成，业务人员需要每天&lt;/span&gt;&lt;span style=&quot;font-family: , sans-serif ; font-size: 11pt&quot;&gt;接收月末可达近1G大数据源推送后，&lt;/span&gt;&lt;/b&gt;&lt;/p&gt;&lt;p class=&quot;wordsection1&quot; style=&quot;margin: 0cm ; margin-bottom: 0.0001pt ; text-align: justify&quot;&gt;&lt;b&gt;&lt;span style=&quot;font-family: , sans-serif ; font-size: 11pt&quot;&gt;对近两百万条数据进行处理&lt;/span&gt;&lt;span style=&quot;font-family: , sans-serif ; font-size: 11pt&quot;&gt;，&lt;/span&gt;&lt;/b&gt;&lt;b&gt;&lt;span style=&quot;font-family: , sans-serif ; font-size: 11pt&quot;&gt;并根据70多位&lt;/span&gt;&lt;/b&gt;&lt;b style=&quot;font-size: 11pt&quot;&gt;省区大区经理运营权限进行结果拆分和邮件的下发。&lt;/b&gt;&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=11;fontColor=#424242;" vertex="1" parent="1">
+          <mxGeometry x="-1717" y="370" width="756" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="KsJ5a3PplZJTA5pHCJnb-86" value="纯手工" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;dashed=1;dashPattern=1 1;sketch=0;fontSize=11;gradientDirection=east;align=center;horizontal=0;" vertex="1" parent="1">
+          <mxGeometry x="-1232" y="429" width="31" height="187" as="geometry" />
+        </mxCell>
+        <mxCell id="KsJ5a3PplZJTA5pHCJnb-87" value="&lt;p class=&quot;wordsection1&quot; style=&quot;margin: 0cm ; margin-bottom: 0.0001pt ; text-align: justify&quot;&gt;&lt;b&gt;&lt;span style=&quot;font-size: 11.0pt ; font-family: &amp;#34;微软雅黑&amp;#34; , sans-serif&quot;&gt;未采用RPA前，日报流程以手工处理为主，每天耗费4位业务人员近两小时数据处理和邮件分发，工作&lt;/span&gt;&lt;span style=&quot;font-family: , sans-serif ; font-size: 11pt&quot;&gt;繁琐单一，易出错&lt;/span&gt;&lt;/b&gt;&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=11;fontColor=#424242;" vertex="1" parent="1">
+          <mxGeometry x="-1717" y="636" width="783" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="KsJ5a3PplZJTA5pHCJnb-88" value="&lt;p class=&quot;wordsection1&quot; style=&quot;color: rgb(66 , 66 , 66) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 14px ; font-style: normal ; letter-spacing: normal ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(255 , 255 , 255) ; margin: 0cm 0cm 0.0001pt ; text-align: justify&quot;&gt;采用RPA后从数据源接收、日报模板数据处理到拆分和邮件分发，咚咚通知全流程自动化解决方案&lt;/p&gt;&lt;p class=&quot;wordsection1&quot; style=&quot;color: rgb(66 , 66 , 66) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 14px ; font-style: normal ; letter-spacing: normal ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(255 , 255 , 255) ; margin: 0cm 0cm 0.0001pt ; text-align: justify&quot;&gt;&lt;ul&gt;&lt;li&gt;&lt;span lang=&quot;EN-US&quot;&gt;实现100%&lt;/span&gt;流程自动化，每月帮助业务提效&lt;span lang=&quot;EN-US&quot;&gt;17.5&lt;/span&gt;人天，&lt;/li&gt;&lt;li&gt;实现几乎100%准确性，避免人工疲劳易错和反复审核造成的额外成本&lt;/li&gt;&lt;li&gt;实现效率提升600%，保证了每天数据及时送达&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;fontSize=14;fontFamily=Helvetica;fontColor=#424242;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-1708" y="885" width="612" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="KsJ5a3PplZJTA5pHCJnb-89" value="未采用京东RPA前" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;dashed=1;dashPattern=1 1;sketch=0;fontSize=11;gradientDirection=east;align=center;horizontal=0;" vertex="1" parent="1">
+          <mxGeometry x="-1692" y="421" width="31" height="187" as="geometry" />
+        </mxCell>
+        <mxCell id="KsJ5a3PplZJTA5pHCJnb-90" value="全流程自动化" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;dashed=1;dashPattern=1 1;sketch=0;fontSize=11;gradientDirection=east;align=center;horizontal=0;fillColor=#e51400;strokeColor=#B20000;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="-1232" y="682" width="31" height="187" as="geometry" />
+        </mxCell>
+        <mxCell id="KsJ5a3PplZJTA5pHCJnb-91" value="采用京东RPA前" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;dashed=1;dashPattern=1 1;sketch=0;fontSize=11;gradientDirection=east;align=center;horizontal=0;fontColor=#ffffff;strokeColor=#B20000;fillColor=#e51400;" vertex="1" parent="1">
+          <mxGeometry x="-1692" y="682" width="31" height="187" as="geometry" />
+        </mxCell>
+        <mxCell id="KsJ5a3PplZJTA5pHCJnb-92" value="数据源接收&lt;br&gt;月末可达1G" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontFamily=Helvetica;fontColor=#424242;" vertex="1" parent="1">
+          <mxGeometry x="-1645" y="446" width="74" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="KsJ5a3PplZJTA5pHCJnb-93" value="日报数据处理&lt;br&gt;近两百万条数据近千公式计算" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontFamily=Helvetica;fontColor=#424242;" vertex="1" parent="1">
+          <mxGeometry x="-1597" y="485" width="166" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="KsJ5a3PplZJTA5pHCJnb-94" value="日报数据拆分&lt;br&gt;700+家门店，7大区26省份维度" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontFamily=Helvetica;fontColor=#424242;" vertex="1" parent="1">
+          <mxGeometry x="-1479" y="523" width="177" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="KsJ5a3PplZJTA5pHCJnb-95" value="邮件分发&lt;br&gt;70+运营、经理" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontFamily=Helvetica;fontColor=#424242;" vertex="1" parent="1">
+          <mxGeometry x="-1341" y="561" width="90" height="31" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
