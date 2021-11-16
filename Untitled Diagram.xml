@@ -1,4 +1,4 @@
-<mxfile modified="2021-11-15T12:15:13.855Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="bDdmOj9wg2DhzPi9vEeO" version="15.7.3" type="github">
+<mxfile modified="2021-11-16T03:32:45.835Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="_Ldk6ynQ9ROAMe-4jIIp" version="15.7.3" type="github">
   <diagram name="Page-1" id="8ce9d11a-91a2-4d17-14d8-a56ed91bf033">
     <mxGraphModel dx="3065" dy="845" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
@@ -1581,7 +1581,7 @@
         <mxCell id="KsJ5a3PplZJTA5pHCJnb-8" value="依赖文件清理" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#C9D4E3;fillColor=#eeeeee;shadow=0;dashed=1;dashPattern=1 1;fontColor=#424242;glass=0;" vertex="1" parent="xCeluR47clFHoIN9DoEp-4">
           <mxGeometry x="155" y="80" width="54" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="xCeluR47clFHoIN9DoEp-15" value="业务流程开发：4个 优化：1个" style="swimlane;strokeColor=#6F0000;fontSize=14;rounded=1;fillColor=#CC0000;fontColor=#ffffff;shadow=0;" parent="1" vertex="1">
+        <mxCell id="xCeluR47clFHoIN9DoEp-15" value="业务流程开发：4个 优化：1个" style="swimlane;fontSize=14;rounded=1;fillColor=#cdeb8b;shadow=0;strokeColor=#36393d;" parent="1" vertex="1">
           <mxGeometry x="-1354" y="-234" width="549" height="451" as="geometry" />
         </mxCell>
         <mxCell id="KsJ5a3PplZJTA5pHCJnb-41" value="1.七鲜-离职异动流程" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#f5f5f5;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;rounded=1;shadow=0;glass=0;sketch=0;fontSize=11;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="xCeluR47clFHoIN9DoEp-15">
@@ -1593,7 +1593,7 @@
         <mxCell id="KsJ5a3PplZJTA5pHCJnb-43" value="挑战：操作复杂，涉及部门，角色、权限，审批流等停用流程，且线上系统对数据验证和准确性要求极高" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=1;shadow=0;glass=0;sketch=0;fontSize=9;" vertex="1" parent="KsJ5a3PplZJTA5pHCJnb-41">
           <mxGeometry y="52" width="544.25" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="KsJ5a3PplZJTA5pHCJnb-44" value="成果：每月提效2.8人天，赋能3个部门6位业务人员效率提升，极大避免数据风险和权限风险问题" style="text;strokeColor=#000000;fillColor=#CC0000;align=center;verticalAlign=middle;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=1;shadow=0;fontSize=12;fontStyle=1;fontColor=#ffffff;" vertex="1" parent="KsJ5a3PplZJTA5pHCJnb-41">
+        <mxCell id="KsJ5a3PplZJTA5pHCJnb-44" value="成果：每月提效2.8人天，赋能3个部门6位业务人员效率提升，极大避免数据风险和权限风险问题" style="text;align=center;verticalAlign=middle;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=1;shadow=0;fontSize=9;fontStyle=0;" vertex="1" parent="KsJ5a3PplZJTA5pHCJnb-41">
           <mxGeometry y="78" width="544.25" height="26" as="geometry" />
         </mxCell>
         <mxCell id="KsJ5a3PplZJTA5pHCJnb-45" value="2.3C-手机通讯日报" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#f5f5f5;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;rounded=1;shadow=0;glass=0;sketch=0;fontSize=11;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="xCeluR47clFHoIN9DoEp-15">
@@ -1605,7 +1605,7 @@
         <mxCell id="KsJ5a3PplZJTA5pHCJnb-47" value="挑战：数据文件大，月末达1G，数据量大，单次处理近两百多万条统计处理，对RPA性能和极限提出了挑战" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=1;shadow=0;glass=0;sketch=0;fontSize=9;" vertex="1" parent="KsJ5a3PplZJTA5pHCJnb-45">
           <mxGeometry y="52" width="544.25" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="KsJ5a3PplZJTA5pHCJnb-48" value="成果：每月提效17.5人天，处理时间缩短至分钟级，更加保障了数据的安全性和隐私性" style="text;strokeColor=#000000;fillColor=#CC0000;align=center;verticalAlign=middle;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=1;shadow=0;fontSize=12;fontStyle=1;fontColor=#ffffff;" vertex="1" parent="KsJ5a3PplZJTA5pHCJnb-45">
+        <mxCell id="KsJ5a3PplZJTA5pHCJnb-48" value="成果：每月提效17.5人天，处理时间缩短至分钟级，更加保障了数据的安全性和隐私性" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=1;shadow=0;fontSize=9;fontStyle=0;fontColor=rgba(0, 0, 0, 1);" vertex="1" parent="KsJ5a3PplZJTA5pHCJnb-45">
           <mxGeometry y="78" width="544.25" height="26" as="geometry" />
         </mxCell>
         <mxCell id="KsJ5a3PplZJTA5pHCJnb-49" value="3.全渠道-杰夫接口机房预警" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#f5f5f5;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;rounded=1;shadow=0;glass=0;sketch=0;fontSize=11;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="xCeluR47clFHoIN9DoEp-15">
@@ -1614,20 +1614,23 @@
         <mxCell id="KsJ5a3PplZJTA5pHCJnb-50" value="背景：大促备战，为保证机房稳定和安全性，需要对内部450+接口统计机房分组信息，并对无冗余单机房预警" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=1;shadow=0;glass=0;sketch=0;fontSize=9;" vertex="1" parent="KsJ5a3PplZJTA5pHCJnb-49">
           <mxGeometry y="26" width="546" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="KsJ5a3PplZJTA5pHCJnb-52" value="成果：紧急开发，完成450+接口机房信息和结果信息汇总上报" style="text;strokeColor=#000000;fillColor=#CC0000;align=center;verticalAlign=middle;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=1;shadow=0;fontSize=12;fontStyle=1;fontColor=#ffffff;" vertex="1" parent="KsJ5a3PplZJTA5pHCJnb-49">
+        <mxCell id="KsJ5a3PplZJTA5pHCJnb-52" value="成果：紧急开发，完成450+接口机房信息和结果信息汇总上报" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=1;shadow=0;fontSize=9;fontStyle=0;fontColor=rgba(0, 0, 0, 1);" vertex="1" parent="KsJ5a3PplZJTA5pHCJnb-49">
           <mxGeometry y="52" width="546" height="26" as="geometry" />
         </mxCell>
         <mxCell id="KsJ5a3PplZJTA5pHCJnb-53" value="4.3C-产品对接日报&quot;流程" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#f5f5f5;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;rounded=1;shadow=0;glass=0;sketch=0;fontSize=11;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="xCeluR47clFHoIN9DoEp-15">
-          <mxGeometry y="313" width="546" height="132" as="geometry" />
+          <mxGeometry y="313" width="546" height="133" as="geometry" />
         </mxCell>
         <mxCell id="KsJ5a3PplZJTA5pHCJnb-54" value="背景：流程涉及产多个汇总，明细等18个维度的数据整理，同时基于大区/省区权限，完成汇总结果邮件分发，&#xa;每天单次数据处理耗时1个小时以上" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=1;shadow=0;glass=0;sketch=0;fontSize=9;" vertex="1" parent="KsJ5a3PplZJTA5pHCJnb-53">
-          <mxGeometry y="26" width="546" height="43" as="geometry" />
+          <mxGeometry y="26" width="546" height="33" as="geometry" />
         </mxCell>
-        <mxCell id="KsJ5a3PplZJTA5pHCJnb-55" value="挑战：涉及7个大区27省份数据，并根据75个省区大区总部等经理权限进行18个维度近两千多条数据的拆分和&#xa;分发" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=1;shadow=0;glass=0;sketch=0;fontSize=9;" vertex="1" parent="KsJ5a3PplZJTA5pHCJnb-53">
-          <mxGeometry y="69" width="546" height="37" as="geometry" />
+        <mxCell id="KsJ5a3PplZJTA5pHCJnb-55" value="挑战：涉及7个大区27省份数据，并根据75个省区大区总部等经理权限进行18个维度近两千多条数据的拆分和分发" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=1;shadow=0;glass=0;sketch=0;fontSize=9;" vertex="1" parent="KsJ5a3PplZJTA5pHCJnb-53">
+          <mxGeometry y="59" width="546" height="22" as="geometry" />
         </mxCell>
-        <mxCell id="KsJ5a3PplZJTA5pHCJnb-56" value="成果：每月提效16.5人天，处理时间缩短之分钟级，赋能3C部门4位业务人员效率提升" style="text;strokeColor=#000000;fillColor=#CC0000;align=center;verticalAlign=middle;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=1;shadow=0;fontSize=12;fontStyle=1;fontColor=#ffffff;" vertex="1" parent="KsJ5a3PplZJTA5pHCJnb-53">
-          <mxGeometry y="106" width="546" height="26" as="geometry" />
+        <mxCell id="KsJ5a3PplZJTA5pHCJnb-82" value="成果：每月提效16.5人天，处理时间缩短之分钟级，赋能3C部门4位业务人员效率提升" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=1;shadow=0;fontSize=9;fontStyle=0;fontColor=rgba(0, 0, 0, 1);" vertex="1" parent="KsJ5a3PplZJTA5pHCJnb-53">
+          <mxGeometry y="81" width="546" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="KsJ5a3PplZJTA5pHCJnb-56" value="成果：累计提效36.8人天/月，处理时间缩短至分钟级，赋能4个部门10位业务人员效率提升，数据准确率提升" style="text;strokeColor=#000000;fillColor=#CC0000;align=center;verticalAlign=middle;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=1;shadow=0;fontSize=11;fontStyle=1;fontColor=#ffffff;" vertex="1" parent="KsJ5a3PplZJTA5pHCJnb-53">
+          <mxGeometry y="107" width="546" height="26" as="geometry" />
         </mxCell>
         <mxCell id="KsJ5a3PplZJTA5pHCJnb-61" value="" style="shape=doubleArrow;direction=south;whiteSpace=wrap;html=1;rounded=1;shadow=0;glass=0;sketch=0;fontSize=9;align=left;rotation=90;gradientDirection=east;fillColor=#cdeb8b;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="-1440" y="-61" width="60" height="100" as="geometry" />
