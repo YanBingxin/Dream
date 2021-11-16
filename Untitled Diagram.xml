@@ -1,6 +1,6 @@
-<mxfile modified="2021-11-16T09:01:59.082Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="2pZVBkIpq1wO6TX_01Mo" version="15.7.3" type="github">
+<mxfile modified="2021-11-16T11:43:23.528Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="oLG5T2-Ayk16Y8V7Q13W" version="15.7.3" type="github">
   <diagram name="Page-1" id="8ce9d11a-91a2-4d17-14d8-a56ed91bf033">
-    <mxGraphModel dx="3038" dy="934" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="3221" dy="1028" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1641,38 +1641,67 @@
         <mxCell id="KsJ5a3PplZJTA5pHCJnb-63" value="功能促进" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=13;shadow=0;" vertex="1" parent="1">
           <mxGeometry x="-1441" y="22" width="62" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="KsJ5a3PplZJTA5pHCJnb-84" value="&lt;p class=&quot;wordsection1&quot; style=&quot;margin: 0cm ; margin-bottom: 0.0001pt ; text-align: justify&quot;&gt;&lt;b&gt;&lt;span style=&quot;font-size: 11.0pt ; font-family: &amp;#34;微软雅黑&amp;#34; , sans-serif&quot;&gt;&lt;span lang=&quot;EN-US&quot;&gt;3C&lt;/span&gt;手机通讯每日数据日报是3C通讯业务数据汇总重要组成，业务人员需要每天&lt;/span&gt;&lt;span style=&quot;font-family: , sans-serif ; font-size: 11pt&quot;&gt;接收月末可达近1G大数据源推送后，&lt;/span&gt;&lt;/b&gt;&lt;/p&gt;&lt;p class=&quot;wordsection1&quot; style=&quot;margin: 0cm ; margin-bottom: 0.0001pt ; text-align: justify&quot;&gt;&lt;b&gt;&lt;span style=&quot;font-family: , sans-serif ; font-size: 11pt&quot;&gt;对近两百万条数据进行处理&lt;/span&gt;&lt;span style=&quot;font-family: , sans-serif ; font-size: 11pt&quot;&gt;，&lt;/span&gt;&lt;/b&gt;&lt;b&gt;&lt;span style=&quot;font-family: , sans-serif ; font-size: 11pt&quot;&gt;并根据70多位&lt;/span&gt;&lt;/b&gt;&lt;b style=&quot;font-size: 11pt&quot;&gt;省区大区经理运营权限进行结果拆分和邮件的下发。&lt;/b&gt;&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=11;fontColor=#424242;" vertex="1" parent="1">
-          <mxGeometry x="-1717" y="370" width="756" height="32" as="geometry" />
+        <mxCell id="KsJ5a3PplZJTA5pHCJnb-84" value="&lt;p class=&quot;wordsection1&quot; style=&quot;margin: 0cm ; margin-bottom: 0.0001pt ; text-align: justify&quot;&gt;&lt;b&gt;&lt;span style=&quot;font-size: 11.0pt ; font-family: &amp;#34;微软雅黑&amp;#34; , sans-serif&quot;&gt;&lt;span lang=&quot;EN-US&quot;&gt;3C&lt;/span&gt;手机通讯每日数据日报是3C通讯业务数据汇总重要组成，业务人员需要每天&lt;/span&gt;&lt;span style=&quot;font-family: , sans-serif ; font-size: 11pt&quot;&gt;接收月末可达近1G大数据源&lt;/span&gt;&lt;/b&gt;&lt;/p&gt;&lt;p class=&quot;wordsection1&quot; style=&quot;margin: 0cm 0cm 0.0001pt&quot;&gt;&lt;b&gt;&lt;span style=&quot;font-family: , sans-serif ; font-size: 11pt&quot;&gt;推送后，&lt;/span&gt;&lt;/b&gt;&lt;b&gt;&lt;span style=&quot;font-family: , sans-serif ; font-size: 11pt&quot;&gt;对近两百万条数据进行处理&lt;/span&gt;&lt;span style=&quot;font-family: , sans-serif ; font-size: 11pt&quot;&gt;，&lt;/span&gt;&lt;/b&gt;&lt;b&gt;&lt;span style=&quot;font-family: , sans-serif ; font-size: 11pt&quot;&gt;并根据70多位&lt;/span&gt;&lt;/b&gt;&lt;b style=&quot;font-size: 11pt&quot;&gt;省区大区经理运营权限进行结果拆分和邮件的下发。&lt;/b&gt;&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=11;fontColor=#424242;" vertex="1" parent="1">
+          <mxGeometry x="-1772" y="357" width="698" height="32" as="geometry" />
         </mxCell>
-        <mxCell id="KsJ5a3PplZJTA5pHCJnb-86" value="纯手工" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;dashed=1;dashPattern=1 1;sketch=0;fontSize=11;gradientDirection=east;align=center;horizontal=0;" vertex="1" parent="1">
-          <mxGeometry x="-1232" y="429" width="31" height="187" as="geometry" />
+        <mxCell id="KsJ5a3PplZJTA5pHCJnb-86" value="纯手工" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;dashed=1;dashPattern=1 1;sketch=0;fontSize=11;gradientDirection=east;align=center;horizontal=0;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="-1222" y="425" width="31" height="187" as="geometry" />
         </mxCell>
-        <mxCell id="KsJ5a3PplZJTA5pHCJnb-87" value="&lt;p class=&quot;wordsection1&quot; style=&quot;margin: 0cm ; margin-bottom: 0.0001pt ; text-align: justify&quot;&gt;&lt;b&gt;&lt;span style=&quot;font-size: 11.0pt ; font-family: &amp;#34;微软雅黑&amp;#34; , sans-serif&quot;&gt;未采用RPA前，日报流程以手工处理为主，每天耗费4位业务人员近两小时数据处理和邮件分发，工作&lt;/span&gt;&lt;span style=&quot;font-family: , sans-serif ; font-size: 11pt&quot;&gt;繁琐单一，易出错&lt;/span&gt;&lt;/b&gt;&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=11;fontColor=#424242;" vertex="1" parent="1">
-          <mxGeometry x="-1717" y="636" width="783" height="18" as="geometry" />
+        <mxCell id="KsJ5a3PplZJTA5pHCJnb-87" value="&lt;p class=&quot;wordsection1&quot; style=&quot;margin: 0cm ; margin-bottom: 0.0001pt ; text-align: justify&quot;&gt;&lt;b&gt;&lt;span style=&quot;font-size: 11.0pt ; font-family: &amp;#34;微软雅黑&amp;#34; , sans-serif&quot;&gt;未采用RPA前，以手工处理为主，每天耗费4位业务人员近两小时数据处理和邮件分发，工作&lt;/span&gt;&lt;span style=&quot;font-family: , sans-serif ; font-size: 11pt&quot;&gt;繁琐单一，易出错&lt;/span&gt;&lt;/b&gt;&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=11;fontColor=#424242;" vertex="1" parent="1">
+          <mxGeometry x="-1772" y="634" width="724" height="18" as="geometry" />
         </mxCell>
         <mxCell id="KsJ5a3PplZJTA5pHCJnb-88" value="&lt;p class=&quot;wordsection1&quot; style=&quot;color: rgb(66 , 66 , 66) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 14px ; font-style: normal ; letter-spacing: normal ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(255 , 255 , 255) ; margin: 0cm 0cm 0.0001pt ; text-align: justify&quot;&gt;采用RPA后从数据源接收、日报模板数据处理到拆分和邮件分发，咚咚通知全流程自动化解决方案&lt;/p&gt;&lt;p class=&quot;wordsection1&quot; style=&quot;color: rgb(66 , 66 , 66) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 14px ; font-style: normal ; letter-spacing: normal ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(255 , 255 , 255) ; margin: 0cm 0cm 0.0001pt ; text-align: justify&quot;&gt;&lt;ul&gt;&lt;li&gt;&lt;span lang=&quot;EN-US&quot;&gt;实现100%&lt;/span&gt;流程自动化，每月帮助业务提效&lt;span lang=&quot;EN-US&quot;&gt;17.5&lt;/span&gt;人天，&lt;/li&gt;&lt;li&gt;实现几乎100%准确性，避免人工疲劳易错和反复审核造成的额外成本&lt;/li&gt;&lt;li&gt;实现效率提升600%，保证了每天数据及时送达&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;fontSize=14;fontFamily=Helvetica;fontColor=#424242;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="-1708" y="885" width="612" height="95" as="geometry" />
+          <mxGeometry x="-1772" y="891" width="612" height="95" as="geometry" />
         </mxCell>
-        <mxCell id="KsJ5a3PplZJTA5pHCJnb-89" value="未采用京东RPA前" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;dashed=1;dashPattern=1 1;sketch=0;fontSize=11;gradientDirection=east;align=center;horizontal=0;" vertex="1" parent="1">
+        <mxCell id="KsJ5a3PplZJTA5pHCJnb-89" value="未采用京东RPA前" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;dashed=1;dashPattern=1 1;sketch=0;fontSize=11;gradientDirection=east;align=center;horizontal=0;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="-1692" y="421" width="31" height="187" as="geometry" />
         </mxCell>
         <mxCell id="KsJ5a3PplZJTA5pHCJnb-90" value="全流程自动化" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;dashed=1;dashPattern=1 1;sketch=0;fontSize=11;gradientDirection=east;align=center;horizontal=0;fillColor=#e51400;strokeColor=#B20000;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="-1232" y="682" width="31" height="187" as="geometry" />
+          <mxGeometry x="-1222" y="682" width="31" height="187" as="geometry" />
         </mxCell>
         <mxCell id="KsJ5a3PplZJTA5pHCJnb-91" value="采用京东RPA前" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;dashed=1;dashPattern=1 1;sketch=0;fontSize=11;gradientDirection=east;align=center;horizontal=0;fontColor=#ffffff;strokeColor=#B20000;fillColor=#e51400;" vertex="1" parent="1">
           <mxGeometry x="-1692" y="682" width="31" height="187" as="geometry" />
         </mxCell>
-        <mxCell id="KsJ5a3PplZJTA5pHCJnb-92" value="数据源接收&lt;br&gt;月末可达1G" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontFamily=Helvetica;fontColor=#424242;" vertex="1" parent="1">
-          <mxGeometry x="-1645" y="446" width="74" height="31" as="geometry" />
+        <mxCell id="KsJ5a3PplZJTA5pHCJnb-92" value="数据源接收&lt;br&gt;月末可达1G" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=12;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="-1635" y="469" width="74" height="31" as="geometry" />
         </mxCell>
-        <mxCell id="KsJ5a3PplZJTA5pHCJnb-93" value="日报数据处理&lt;br&gt;近两百万条数据近千公式计算" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontFamily=Helvetica;fontColor=#424242;" vertex="1" parent="1">
-          <mxGeometry x="-1597" y="485" width="166" height="31" as="geometry" />
+        <mxCell id="KsJ5a3PplZJTA5pHCJnb-93" value="日报数据处理&lt;br&gt;近两百万条数据&lt;br&gt;40+分钟" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontFamily=Helvetica;fontColor=#424242;" vertex="1" parent="1">
+          <mxGeometry x="-1550.23" y="489" width="94" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="KsJ5a3PplZJTA5pHCJnb-94" value="日报数据拆分&lt;br&gt;700+家门店，7大区26省份维度" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontFamily=Helvetica;fontColor=#424242;" vertex="1" parent="1">
-          <mxGeometry x="-1479" y="523" width="177" height="31" as="geometry" />
+        <mxCell id="KsJ5a3PplZJTA5pHCJnb-94" value="日报数据拆分&lt;br&gt;700+家门店，7大区26省份维度&lt;br&gt;1小时多" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontFamily=Helvetica;fontColor=#424242;" vertex="1" parent="1">
+          <mxGeometry x="-1481" y="516" width="177" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="KsJ5a3PplZJTA5pHCJnb-95" value="邮件分发&lt;br&gt;70+运营、经理" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontFamily=Helvetica;fontColor=#424242;" vertex="1" parent="1">
-          <mxGeometry x="-1341" y="561" width="90" height="31" as="geometry" />
+        <mxCell id="KsJ5a3PplZJTA5pHCJnb-95" value="邮件分发&lt;br&gt;70+运营、省区经理" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontFamily=Helvetica;fontColor=#424242;" vertex="1" parent="1">
+          <mxGeometry x="-1336" y="561" width="114" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="KsJ5a3PplZJTA5pHCJnb-96" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/streamline-icon-set-free-pack/48/Streamline-58-128.png;rounded=1;shadow=0;glass=0;dashed=1;dashPattern=1 1;sketch=0;fontFamily=Helvetica;fontSize=12;fontColor=#424242;strokeColor=#C9D4E3;fillColor=#CC0000;gradientDirection=east;" vertex="1" parent="1">
+          <mxGeometry x="-1299" y="527" width="29" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="KsJ5a3PplZJTA5pHCJnb-97" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/streamline-icon-set-free-pack/48/Streamline-58-128.png;rounded=1;shadow=0;glass=0;dashed=1;dashPattern=1 1;sketch=0;fontFamily=Helvetica;fontSize=12;fontColor=#424242;strokeColor=#C9D4E3;fillColor=#CC0000;gradientDirection=east;" vertex="1" parent="1">
+          <mxGeometry x="-1278" y="539" width="29" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="KsJ5a3PplZJTA5pHCJnb-110" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#424242;" edge="1" parent="1" source="KsJ5a3PplZJTA5pHCJnb-100" target="KsJ5a3PplZJTA5pHCJnb-104">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-1561" y="468" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KsJ5a3PplZJTA5pHCJnb-100" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.file_key;rounded=1;glass=0;dashPattern=1 1;fontFamily=Helvetica;fontSize=12;fontColor=#424242;" vertex="1" parent="1">
+          <mxGeometry x="-1613" y="428" width="30" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="KsJ5a3PplZJTA5pHCJnb-102" value="" style="verticalLabelPosition=bottom;sketch=0;html=1;verticalAlign=top;pointerEvents=1;align=center;shape=mxgraph.cisco_safe.people_places_things_icons.icon2;rounded=1;shadow=0;glass=0;fontFamily=Helvetica;fontSize=12;fillColor=#a0522d;strokeColor=#6D1F00;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="-1424" y="488" width="34" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KsJ5a3PplZJTA5pHCJnb-113" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#424242;" edge="1" parent="1" source="KsJ5a3PplZJTA5pHCJnb-103" target="KsJ5a3PplZJTA5pHCJnb-96">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KsJ5a3PplZJTA5pHCJnb-103" value="" style="verticalLabelPosition=bottom;sketch=0;html=1;verticalAlign=top;pointerEvents=1;align=center;shape=mxgraph.cisco_safe.people_places_things_icons.icon2;rounded=1;shadow=0;glass=0;fontFamily=Helvetica;fontSize=12;fillColor=#a0522d;strokeColor=#6D1F00;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="-1398" y="488" width="39" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="KsJ5a3PplZJTA5pHCJnb-111" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#424242;" edge="1" parent="1" source="KsJ5a3PplZJTA5pHCJnb-104" target="KsJ5a3PplZJTA5pHCJnb-102">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KsJ5a3PplZJTA5pHCJnb-104" value="" style="sketch=0;outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.file_system;rounded=1;shadow=0;glass=0;fontFamily=Helvetica;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="-1523" y="455" width="39.53" height="37" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
